@@ -1,1 +1,3 @@
-# Courses of MS in CS at Boston University.
+# MS in CS at Boston University
+
+2022 - 2023 courses.
