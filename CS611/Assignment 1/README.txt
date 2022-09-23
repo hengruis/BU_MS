@@ -1,9 +1,5 @@
 Assignment 1 TicTacToe
 
-Name:	Hengrui Shi
-Email: 	shr@bu.edu
-BUID:	U70718728
-
 Run instruction: java Main.java
 Environment: Java 16.0.2, IntelliJ IDEA 2021.2.1 Community Edition, Windows 10 Home
 
