@@ -1,3 +1,3 @@
-# MS in CS at Boston University
+# Course Projects
 
-2022 - 2023 courses.
+2022 - 2023 MS in CS at BU.
