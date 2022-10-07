@@ -1,7 +1,5 @@
 ## README ##
 
-Team: Hengrui Shi, Jiazheng Xiong
-
 - ENVIRONMENT
     Windows 10 Home 21H2 19044.2075
     PyCharm 2022.2.2 Professional Edition
